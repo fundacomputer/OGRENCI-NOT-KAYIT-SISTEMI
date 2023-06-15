@@ -1,0 +1,15 @@
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\bin\Debug\Ogrenci_Not_Kayit.exe.config
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\bin\Debug\Ogrenci_Not_Kayit.exe
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\bin\Debug\Ogrenci_Not_Kayit.pdb
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.csproj.AssemblyReference.cache
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.Form1.resources
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.Properties.Resources.resources
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.csproj.GenerateResource.cache
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.csproj.CoreCompileInputs.cache
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.exe
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.pdb
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.FrmOgretmen.resources
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.FrmDuyuruOlustur.resources
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.FrmDuyuruListesi.resources
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.FrmMesajlar.resources
+C:\Users\lenovopc\source\repos\Ogrenci_Not_Kayit\Ogrenci_Not_Kayit\obj\Debug\Ogrenci_Not_Kayit.FrmOgrenci.resources
